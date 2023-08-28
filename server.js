@@ -9,5 +9,5 @@ app.get('/', (req, res) => {
 
 
 app.listen(3000, ()=> {
-    console.log("Node is running in port 3000")
+    console.log("Node-API is running in port 3000")
 })
